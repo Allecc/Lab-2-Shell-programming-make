@@ -6,5 +6,6 @@ int main() {
     scanf("%d", &num);
     isEven(num);
     // add isOdd(num);
+    isOdd(num);
     return 0;
 }
